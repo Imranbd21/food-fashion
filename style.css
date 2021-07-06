@@ -1,0 +1,28 @@
+body{
+    font-family: 'Bona Nova', serif;
+}
+section{
+    display: flex;
+    margin: 5%;
+}
+.half-width{
+    width: 50%;
+    padding: 3%;
+}
+.half-width h1{
+    font-size: 55px;
+    color:darkslategrey;
+}
+.half-width p{
+    color: gray;
+    text-align: left;
+}
+.half-width span{
+    color: tomato;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato) ;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
