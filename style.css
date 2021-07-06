@@ -25,4 +25,79 @@ section{
     background-image:linear-gradient(orange,tomato) ;
     padding: 10px 30px;
     border-radius: 20px;
+
 }
+.half-width2 p{
+    color: black;
+}
+.half-width2{
+    width: 50%;
+    padding: 3%;
+}
+.half-width2 img{
+    border-radius: 50%;
+    width: 70%;
+    
+}
+.flexible-container{
+    background-image: url(Frame59.jpg);
+    display: flex;
+    
+}
+.our-racipies h1{
+    display: block;
+    width: 1050px;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(170, 28, 28);
+
+}
+.our-racipies p{
+    text-align: center;
+    font-size: 20px;
+}
+.quarter-width{
+    width: 500px;
+    display: block;
+}
+.quarter-width img{
+    width: 40%;
+    border-radius: 10px;
+    
+}
+.quarter-width p{
+    width: 40%;
+    text-align: center;
+}
+.quarter-width h1{
+    width: 40%;
+    text-align: center;
+}
+.flexible{
+    display: flex;
+    margin: auto;
+    
+}
+.footer-area {
+    text-align: center;
+    background-color:orangered;
+    padding:2%;
+
+    
+}
+.footer-area span{
+    color:white;
+}
+
+
+
+
+    
+    
+
+
+
+
+
+
+
